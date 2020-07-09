@@ -4,9 +4,9 @@ Insertion sort is an efficient algorithm for sorting a small number of elements.
 
 | Performance | Big O notation |
 | --- | --- |
-| Worst-case | О(n ^ 2) |
+| Worst-case | О(n<sup>2</sup>) |
 | Best-case | O(n) |
-| Average | О(n ^ 2) |
+| Average | О(n<sup>2</sup>) |
 
 ## Explanation of work
 Insertion sort works the way many people sort a hand of playing cards.
