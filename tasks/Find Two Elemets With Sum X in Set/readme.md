@@ -11,8 +11,8 @@ Test cases
 ==========
 Your code should pass the following test case(-s).
 
-Input: solution({1, 2, 3, 4, 5, 6, 7}, 3)
+Input: solution({1, 2, 3, 4, 5, 6, 7}, 3)<br/>
 Output: True
 
-Input: solution({26, 31, 41, 58, 59}, 82)
+Input: solution({26, 31, 41, 58, 59}, 82)<br/>
 Output: False
