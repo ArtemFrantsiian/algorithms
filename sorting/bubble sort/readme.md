@@ -5,8 +5,8 @@ Bubble sort is a simple sorting algorithm.
 
 | Performance | Big O notation |
 | --- | --- |
-| Worst-case | О(n) |
-| Best-case | O(n<sup>2</sup>) |
+| Worst-case | О(n<sup>2</sup>) |
+| Best-case | O(n) |
 | Average | О(n<sup>2</sup>) |
 
 ## Explanation of work
