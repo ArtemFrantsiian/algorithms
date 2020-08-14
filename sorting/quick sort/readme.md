@@ -4,7 +4,7 @@ Quicksort is an efficient divide and conquer algorithm.
 
 | Performance | Big O notation |
 | --- | --- |
-| Worst-case | О(n log n) |
+| Worst-case | О(n<sup>2</sup>) |
 | Best-case | O(n log n) |
 | Average | О(n log n) |
 
